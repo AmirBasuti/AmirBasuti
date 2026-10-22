@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
-  <img alt="A simple geometric illustration of data becoming structured software." src="header-light.svg" width="900" height="136">
+  <img alt="A simple geometric illustration of data becoming structured software." src="header-light.svg" width="900">
 </picture>
 
 # Amir Basuti
